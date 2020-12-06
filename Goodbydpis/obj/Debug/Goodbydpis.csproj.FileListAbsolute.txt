@@ -1,0 +1,10 @@
+C:\Users\USER\source\repos\Goodbydpis\Goodbydpis\obj\Debug\Goodbydpis.csprojAssemblyReference.cache
+C:\Users\USER\source\repos\Goodbydpis\Goodbydpis\obj\Debug\Goodbydpis.Form1.resources
+C:\Users\USER\source\repos\Goodbydpis\Goodbydpis\obj\Debug\Goodbydpis.Properties.Resources.resources
+C:\Users\USER\source\repos\Goodbydpis\Goodbydpis\obj\Debug\Goodbydpis.csproj.GenerateResource.cache
+C:\Users\USER\source\repos\Goodbydpis\Goodbydpis\obj\Debug\Goodbydpis.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\Goodbydpis\Goodbydpis\bin\Debug\Goodbydpis.exe.config
+C:\Users\USER\source\repos\Goodbydpis\Goodbydpis\bin\Debug\Goodbydpis.exe
+C:\Users\USER\source\repos\Goodbydpis\Goodbydpis\bin\Debug\Goodbydpis.pdb
+C:\Users\USER\source\repos\Goodbydpis\Goodbydpis\obj\Debug\Goodbydpis.exe
+C:\Users\USER\source\repos\Goodbydpis\Goodbydpis\obj\Debug\Goodbydpis.pdb
